@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes
 
-<!-- [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify) -->
+[Lecture](https://dibyaprokash.github.io/dgl_114_docsify-repo/)
+[Get Started](#README)
