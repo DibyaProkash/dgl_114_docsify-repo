@@ -5,16 +5,16 @@ Welcome to <b>DGL 114: Introduction to Mobile App Development!</b> This course i
 ## What you will learn in this course <!-- {docsify-ignore} -->
 Upon completion of this course the student will be able to:
 
-> configure an Integrated Development Environment (IDE) for mobile app development; 
+1. configure an Integrated Development Environment (IDE) for mobile app development; 
 
-> apply appropriate programmatic components from relevant APIs; 
+2. apply appropriate programmatic components from relevant APIs; 
 
-> produce app user interfaces using both IDE tools and programmatic approach; 
+3. produce app user interfaces using both IDE tools and programmatic approach; 
 
-> describe the mobile app lifecycle and its impact on the design of mobile apps; 
+4. describe the mobile app lifecycle and its impact on the design of mobile apps; 
 
-> implement responsive mobile apps using appropriate design patterns; 
+5. implement responsive mobile apps using appropriate design patterns; 
 
-> adapt data persistence and management techniques to generate bespoke apps;
+6. adapt data persistence and management techniques to generate bespoke apps;
 
-> refactor mobile apps using debugging strategies and IDE tools. 
+7. refactor mobile apps using debugging strategies and IDE tools. 
