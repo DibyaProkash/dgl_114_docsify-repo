@@ -23,7 +23,7 @@ To reinforce what you learn this week, optional activities such as codelabs and 
 ## Lecture Plan
 | Activity  | Topic  | Time Alloted  | Details  |
 | :----------:  | :----------:  | :----------:  | :----------  |
-| Lecture  | Course Welcome  | 30 minutes  | Ideally just cover course-specific content and won't need to cover Brightspace organization (i.e. follow DGL practices for course shell organization).   |
+| Lecture  | Course Welcome  | 30 minutes  | Just cover course-specific content and won't need to cover Brightspace organization (i.e. follow DGL practices for course shell organization).   |
 | Lecture  | The Android platform  | 15 minutes  |   |
 | Walkthrough  | Install Android Studio  | 10 minutes  |   |
 | Walkthrough  | Create a new AVD  | 5 minutes  |   |
